@@ -1,0 +1,318 @@
+[
+  {
+    "patterns": [
+      "广西人"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "你们广西人伤透了我的心啊"
+    }
+  },
+  {
+    "patterns": [
+      "bad bot"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "没教养的东西，怎么说话的"
+    }
+  },
+  {
+    "patterns": [
+      "不会吧"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "我不会你妈隔壁"
+    }
+  },
+  {
+    "patterns": [
+      "good bot"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "哈哈，谢谢你的赞美"
+    }
+  },
+  {
+    "patterns": [
+      "有0吗"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "看看牛子"
+    }
+  },
+  {
+    "patterns": [
+      "R.I.P",
+      "rip",
+      "RIP",
+      "节哀"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "你别走的太快好不好，身后的小尾巴有点跟不上"
+    }
+  },
+  {
+    "patterns": [
+      "金木",
+      "东京食"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "我还是那句话，小学生闭嘴，没看过东京食尸鬼看十遍再来和我辩，除了罪恶王冠我还没见过能超越食尸鬼的作品，你们能体会金木的痛吗！"
+    }
+  },
+  {
+    "patterns": [
+      "寻思"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "你寻思，我寻思，大家都寻思"
+    }
+  },
+  {
+    "patterns": [
+      "哟，这不"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "guin!"
+    }
+  },
+  {
+    "patterns": [
+      "就该",
+      "不就是",
+      "你不懂"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "原来如此，原来如此，太谢谢了，我已经完全玩明白了"
+    }
+  },
+  {
+    "patterns": [
+      "臭批"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "好臭！嗯~~ 好臭！"
+    }
+  },
+  {
+    "patterns": [
+      "铁包"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "是不是包我吃不出来？"
+    }
+  },
+  {
+    "patterns": [
+      "可以吗",
+      "阔以吗"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "不阔以！"
+    }
+  },
+  {
+    "patterns": [
+      "吃饭"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "铁包"
+    }
+  },
+  {
+    "patterns": [
+      "兔友",
+      "刘路",
+      "我早就是日本人了"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "还好一切如愿以偿"
+    }
+  },
+  {
+    "patterns": [
+      "day0"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "唉，共导吧"
+    }
+  },
+  {
+    "patterns": [
+      "四川"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "四川滴，绵阳滴，有没有绵阳江油滴，我是江油中坝滴，请问您是哪里滴？"
+    }
+  },
+  {
+    "patterns": [
+      "神系",
+      "神友",
+      "神神"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "唉，神友文化圈真的没落了"
+    }
+  },
+  {
+    "patterns": [
+      "对线"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "这下对线了"
+    }
+  },
+  {
+    "patterns": [
+      "山东",
+      "浩克"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "沙东人肿莫你了，触摸谁呢？我受你这气？"
+    }
+  },
+  {
+    "patterns": [
+      "叶子",
+      "麻古",
+      "LSD",
+      "毒品"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "简单整点那个"
+    }
+  },
+  {
+    "patterns": [
+      "妈妈",
+      "儿子"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "爱不爱妈妈？"
+    }
+  },
+  {
+    "patterns": [
+      "华为",
+      "5g"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "我们华为真的太厉害了！"
+    }
+  },
+  {
+    "patterns": [
+      "鸿蒙"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "我们鸿蒙真的太厉害了！"
+    }
+  },
+  {
+    "patterns": [
+      "典中典"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "没看过的死钱佳"
+    }
+  },
+  {
+    "patterns": [
+      "武汉",
+      "covid"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "小小~病毒~你来~侵犯，我们湖北和武~汉"
+    }
+  },
+  {
+    "patterns": [
+      "贵州"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "贵州和广西相比，那我还是感觉我~们贵州~牛↗批↘↗"
+    }
+  },
+  {
+    "patterns": [
+      "吃瓜",
+      "西瓜"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "姐妹们，吃西瓜了啦，嗯~，西瓜好好吃"
+    }
+  },
+  {
+    "patterns": [
+      "好妹妹"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "想用舌头给她洗澡"
+    }
+  },
+  {
+    "patterns": [
+      "不就是"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "都给你懂完了是吧"
+    }
+  },
+  {
+    "patterns": [
+      "骚0"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "有1吗？"
+    }
+  },
+  {
+    "patterns": [
+      "bad bot"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "法克鱿，我是你爹！"
+    }
+  },
+  {
+    "patterns": [
+      "大的来了"
+    ],
+    "reply": {
+      "type": "PlainMessage",
+      "data": "我大你吗了个逼来了！"
+    }
+  }
+]
